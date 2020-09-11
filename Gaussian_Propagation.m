@@ -13,9 +13,7 @@ function Gaussian_Propagation(lambda,beam_waist,wp,fpos,f,show_flag)
 % Example:
 %           Gaussian_Propagation(8e-7,0.00075,-0.1,[0 0.1],[-0.5 0.2])
 %
-%   Comments \ improvements are welcomed
-%   nate2718281828@gmail.com
-%   Ver 1.1
+%   natan@stanford.edu Ver 1.1
 %   Date: 12/1/2012.
 
 %% defaults - x2 beam expander for HeNe laser
