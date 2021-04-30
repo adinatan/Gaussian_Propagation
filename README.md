@@ -13,8 +13,14 @@ Input:
  
 Example:
 
-
-           Gaussian_Propagation(8e-7,0.00075,-0.1,[0 0.1],[-0.5 0.2])
+           lambda     = 8e-7 ;      % [m]
+           beam_waist = 0.0075 ;    % [m] 
+           wp         = -0.1 ;      % [m] 
+           fpos       = [0 0.1]     % [m] 
+           f          = [-0.5 0.2]; % [m]
+           
+           Gaussian_Propagation(lambda,beam_waist,wp,fpos,f,show_flag)
+          
            
            
 ![Fig1](https://github.com/adinatan/Gaussian_Propagation/blob/master/gp.png)
