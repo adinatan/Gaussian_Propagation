@@ -14,9 +14,9 @@ Input:
 Example:
 
            lambda     = 8e-7 ;      % [m]
-           beam_waist = 0.00075 ;    % [m] 
+           beam_waist = 0.00075 ;   % [m] 
            wp         = -0.1 ;      % [m] 
-           fpos       = [0 0.1]     % [m] 
+           fpos       = [0 0.1] ;   % [m] 
            f          = [-0.5 0.2]; % [m]
            
            Gaussian_Propagation(lambda,beam_waist,wp,fpos,f,show_flag)
