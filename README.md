@@ -17,4 +17,4 @@ Example:
            Gaussian_Propagation(8e-7,0.00075,-0.1,[0 0.1],[-0.5 0.2])
            
            
-![Fig1](https://github.com/adinatan/Gaussian_Propagation/fig1.png)
+![Fig1](https://github.com/adinatan/Gaussian_Propagation/pg.png)
