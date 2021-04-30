@@ -19,7 +19,7 @@ Example:
            fpos       = [0 0.1] ;   % [m] 
            f          = [-0.5 0.2]; % [m]
            
-           Gaussian_Propagation(lambda,beam_waist,wp,fpos,f,show_flag)
+           Gaussian_Propagation(lambda,beam_waist,wp,fpos,f)
           
            
            
