@@ -12,6 +12,8 @@ Input:
     show_flag      prints text on figure with waist positions and sizes
  
 Example:
+
+
            Gaussian_Propagation(8e-7,0.00075,-0.1,[0 0.1],[-0.5 0.2])
            
            
