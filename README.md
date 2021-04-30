@@ -3,6 +3,7 @@
 propagates a Gaussian beam through a series of lenses. (All units are metric)
 
 Input:
+
     lambda         beam's wavelength
     beam_waist     waist of the beam at the waist positions (wp)
     wp             waist position
